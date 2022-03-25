@@ -8,18 +8,20 @@ general_4 : "तुम्ही या चॅट ग्रुपमध्ये 
 general_5 : "ही क्रिया करण्यासाठी तुम्ही व्हॉइस चॅट अधिकार व्यवस्थापित करण्यासाठी प्रशासक असणे आवश्यक आहे."
 general_6 : "बॉट व्हॉइस चॅटवर प्रवाहित होत नाही"
 # Classes - Telegram.py
-tg_1 : "बॉट अभी डाउनलोड के साथ **ओवरलोडेड** है।\n\n**इसके बाद प्रयास करें:** {0} (__छोड़कर समय__)"
-tg_2 : "टेलीग्राम से मीडिया डाउनलोड करने में विफल।"
+tg_1 : "बॉट आत्ता डाउनलोडसह **ओव्हरलोड** आहे.\n\n{0} (__expected time__) **नंतर प्रयत्न करा:**"
+tg_2 : "टेलीग्रामवरून मीडिया डाउनलोड करण्यात अयशस्वी."
+
+
 
 # Core - Call.py
-call_1 : "आपके चैनल पर सहायक खाते को आमंत्रित करने के लिए बॉट को **एडमिन** अनुमति की आवश्यकता है।\n\nचैनल प्लेमोड को इसके माध्यम से अक्षम करें: /प्लेमोड"
-call_2 : "आपके समूह या चैनल में सहायक प्रतिबंधित है, कृपया प्रतिबंध हटा दें।\n\n**सहायक उपयोगकर्ता नाम:** @{0}\n**सहायक आईडी:** {1}"
-call_3 : "आपकी चैट में सहायक खाते को न्योता देते समय अपवाद हुआ।\n\n**कारण**:{0}"
-call_4 : "बॉट को **लिंक के माध्यम से उपयोगकर्ताओं को आमंत्रित करें** आपके चैट समूह में सहायक खाते को आमंत्रित करने की अनुमति की आवश्यकता है।"
-call_5 : "सहायक खाता 5 सेकंड में शामिल हो जाएगा..कृपया प्रतीक्षा करें!"
-call_6 : "सहायक खाता[{0}] सफलतापूर्वक शामिल हो गए.\n\nअभी संगीत प्रारंभ कर रहे हैं"
-call_7 : "**हानिकारक व्यवस्थापक अधिकार दिया गया **\n\nकृपया बॉट से **उपयोगकर्ताओं को प्रतिबंधित करें** अधिकार हटा दें।"
-call_8 : "**हानिकारक व्यवस्थापक अधिकार दिया गया **\n\nकृपया बॉट से **नए व्यवस्थापक जोड़ें** अधिकार हटा दें।"
+call_1 : "असिस्टंट खात्याला तुमच्या चॅनलवर आमंत्रित करण्यासाठी बॉटला प्रशासकाच्या परवानगीची आवश्यकता आहे.\n\n चॅनेल प्लेमोड ला याच्या द्वारे अक्षम करा: /playmode"
+call_2 : "तुमच्या समूह या चॅनेलमध्ये सहायक आहे, कृपया प्रतिबंध हटवा.\n\n**सहायक वापरकर्ता नाव:** @{0}\n**सहायक ओळख:** {1}"
+call_3 : "असिस्टंट खात्याला तुमच्या चॅटमध्ये आमंत्रित करताना एक अपवाद आला.\n\n**कारण**:{0}"
+call_4 : "बॉटला सहाय्यक खात्याला तुमच्या चॅट ग्रुपवर **लिंकद्वारे वापरकर्त्यांना आमंत्रित करण्यासाठी** आमंत्रित करण्याची परवानगी आवश्यक आहे."
+call_5 : "सहाय्यक खाते 5 सेकंदात जोडले जाईल..कृपया प्रतीक्षा करा!"
+call_6 : "उपकंपनी खाते[{0}] यशस्वीरित्या सामील झाले.आता संगीत सुरू करत आहे\n\n"
+call_7 : "**हानीकारक प्रशासक अधिकार मंजूर केला**\n\nकृपया बॉटमधून **वापरकर्ते मर्यादित** अधिकार काढून टाका."
+call_8 : "**हानीकारक प्रशासक अधिकार मंजूर केला**\n\nकृपया बॉटमधून **नवीन प्रशासक जोडा** अधिकार काढून टाका"
 call_9 : "**स्ट्रीम स्विच करने में विफल**\nकृपया ट्रैक को फिर से बदलने के लिए उपयोग करें / छोड़ें।"
 call_10 : "प्लेलिस्ट से अगला ट्रैक डाउनलोड करना"
 call_11 : "कृपया अपने चैनल में @{0} जोड़ें[ आईडी: {1}].\n\nBot चैनल विवरण प्राप्त करने में सक्षम नहीं है।"
@@ -431,27 +433,6 @@ gban_11 : "Please wait a while.. Fetching Gbanned users list"
 
 name : English
 
-# General Strings
-general_1 : "Reply to a user's message or give username/user_id."
-general_2 : "Error! Wrong Usage of Command."
-general_3 : "Some **exception occured** while processing your query.\n\nException Type:- {0}"
-general_4 : "You're an anonymous admin in this chat group!\nRevert back to User Account From Admin Rights."
-general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "Bot isn't streaming on voice chat."
-
-# Classes - Telegram.py
-tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
-tg_2 : "Failed to download the media from telegram."
-
-# Core - Call.py
-call_1 : "Bot requires **Admin** Permission to invite assistant account to your channel."
-call_2 : "Assistant is banned in your group or channel, please unban.\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}"
-call_3 : "Exception Occured While Inviting Assistant Account to your chat.\n\n**Reason**: {0}"
-call_4 : "Bot requires **Invite Users Via Link** Permission to invite assistant account to your chat group."
-call_5 : "Assistant Account will be joining in 5 Seconds..Please Wait!"
-call_6 : "Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
-call_7 : "**Harmful Admin Right Given **\n\nPlease remove **BAN USERS** rights from the bot."
-call_8 : "**Harmful Admin Right Given **\n\nPlease remove **ADD NEW ADMINS** rights from the bot."
 call_9 : "**Failed to switch Stream**\nPlease use /skip to change track again."
 call_10 : "Downloading Next Track from Playlist"
 call_11 : "Please add @{0} to your channel[ ID: {1}].\n\nBot is not able to get channel details."
