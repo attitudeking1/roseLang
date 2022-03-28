@@ -470,6 +470,6 @@ sug_21 : "Bot has server-sided playlist option.\n\nYou can add music in your pla
 sug_22 : "You can now shuffle the queued musics on the bot.\n\nCommand: /shuffle"
 sug_23 : "You can check the queue of the musics.\n\nCommand: /queue"
 sug_24 : "You can check my owner and sudo users who manage me.\n\nCommand: /sudolist"
-sug_25 : "Bot has a feature called **Commands Delete Mode**. It deletes its executed commands automatically.\n\nEnable or disable deletemode from /settings [__Enabled by default__]"
+sug_25 : "बॉटमध्ये **कमांड्स डिलीट मोड** नावाचे वैशिष्ट्य आहे. ते त्याच्या अंमलात आणलेल्या आज्ञा आपोआप हटवते.\n\n /settings मधून डिलीटमोड सक्षम किंवा अक्षम करा [__Enabled by default__]"
 sug_26 : "You can change language of the bot to available languages for easy understanding.\n\nCommand: /language"
-sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
+sug_27 : "बॉटमध्ये **फोर्स प्ले** नावाचे वैशिष्ट्य आहे.\n\n**फोर्स प्ले** व्हॉईस चॅटवर प्ले ट्रॅक थांबवते आणि रांगेत अडथळा न आणता/क्लीअर न करता शोधलेला ट्रॅक त्वरित प्ले करणे सुरू करते.\n\nआज्ञा: /playforce"
