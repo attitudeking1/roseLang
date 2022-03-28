@@ -114,21 +114,21 @@ set_cb_8 : "परत येत आहे.."
 ustats_1 : "कोणतीही वापरकर्ता आकडेवारी आढळली नाही."
 ustats_2 : "शुभेच्छा!, तुम्ही आतापर्यंत तब्बल **{1}** वेळा **{0}** ट्रॅक प्ले केले आहेत.\n\nशीर्ष {2} तुम्ही खेळले:\n\n"
 
-
-#😂🙏🏻🤞🌟👿😂🎙️🤔😈🏘️🤔😈🌟💞😔🤔💞⚫😔💞⚫😔💞😔🤔💞😔🤔💞😔🤔💞😈🤔💞😔🤔
-
-
-gstats_1 : "Getting Global Stats, This could take some time..."
-gstats_2 : "No Stats Found."
-gstats_3 : "Getting Global Top 10 {0} on the bot, This could take some time.."
-gstats_4 : "**Total Queries on Bot:** {0}\n\n{1} has played **{2}** tracks till now with a whopping count of **{3}** times.\n\n**Top {4} Tracks:**\n"
-gstats_5 : "**Top {0} Chats of {1}:**\n\n"
+gstats_1 : "जागतिक आकडेवारी मिळवणे, यास थोडा वेळ लागू शकतो..."
+gstats_2 : "कोणतीही आकडेवारी आढळली नाही."
+gstats_3 : "बॉटवर ग्लोबल टॉप 10 {0} मिळवणे, यास थोडा वेळ लागू शकतो.."
+gstats_4 : "**बॉटवरील एकूण प्रश्न:** {0}\n\n{1} ने आत्तापर्यंत **{2}** ट्रॅक **{3}** वेळा प्ले केले आहेत.\n\n**टॉप {4} ट्रॅक:**\n"
+gstats_5 : "**शीर्ष {0} {1} चॅट्स:**\n\n"
 gstats_6 : "**Top {0} Users of {1}:**\n\n"
 gstats_7 : "This chat group has played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by this chat group:\n\n"
 gstats_8 : "Getting Bot's general stats and information.. This could take some time..."
 gstats_9 : "**GLOBAL TOP 10 STATS OF THE BOT**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
 gstats_10 : "**Global Stats of {0}**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
 gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which you want to check global stats from bot's servers.\n\nTo check top tracks, chats, users and other stuffs, please use /gstats"
+
+
+
+#😂🙏🏻🤞🌟👿😂🎙️🤔😈🏘️🤔😈🌟💞😔🤔💞⚫😔💞⚫😔💞😔🤔💞😔🤔💞😔🤔💞😈🤔💞😔🤔
 
 
 # Play 
